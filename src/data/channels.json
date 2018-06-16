@@ -1,0 +1,71 @@
+{
+  "channels": [
+    {
+      "enabled": true,
+      "mediaURL": "/icons/kattarshians.png",
+      "name": "Kattarshians Cam 1",
+      "section": [
+        1
+      ],
+      "type": "youtube",
+      "uri": "https://www.youtube.com/embed/Y4OqcSFpZ9U"
+    },
+    {
+      "enabled": true,
+      "mediaURL": "/icons/kattarshians.png",
+      "name": "Kattarshians Cam 2",
+      "section": [
+        1
+      ],
+      "type": "youtube",
+      "uri": "https://www.youtube.com/embed/KXguUUSankA"
+    },
+    {
+      "enabled": true,
+      "mediaURL": "/icons/kattarshians.png",
+      "name": "Kattarshians Cam 3",
+      "section": [
+        1
+      ],
+      "type": "youtube",
+      "uri": "https://www.youtube.com/embed/L1AYuqhwGLk"
+    },
+    {
+      "enabled": true,
+      "mediaURL": "/icons/kattarshians.png",
+      "name": "Kattarshians Cam 4",
+      "section": [
+        1
+      ],
+      "type": "youtube",
+      "uri": "https://www.youtube.com/embed/HssVE9TZXb0"
+    },
+    {
+      "enabled": true,
+      "mediaURL": "/icons/panda.png",
+      "name": "Smithsonian's Panda Cam 1",
+      "section": [
+        1
+      ],
+      "type": "m3u8",
+      "uri": "http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8"
+    },
+    {
+      "enabled": true,
+      "mediaURL": "/icons/panda.png",
+      "name": "Smithsonian's Panda Cam 2",
+      "section": [
+        1
+      ],
+      "type": "m3u8",
+      "uri": "http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8"
+    }
+  ],
+  "sections": [
+    {
+      "description": "",
+      "id": 1,
+      "name": "Live Cams"
+    }
+  ]
+}
